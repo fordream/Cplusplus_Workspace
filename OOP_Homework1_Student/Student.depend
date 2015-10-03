@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1426562671 source:/home/lucas/妗岄潰/Student/Class.cpp
+	<iostream>
+	<cstdio>
+	"Class.h"
+
+1426517375 /home/lucas/妗岄潰/Student/Class.h
+	"Student.h"
+
+1426568473 /home/lucas/妗岄潰/Student/Student.h
+	"Course.h"
+
+1426511625 /home/lucas/妗岄潰/Student/Course.h
+
+1426515884 source:/home/lucas/妗岄潰/Student/Course.cpp
+	<iostream>
+	"Course.h"
+
+1426568123 source:/home/lucas/妗岄潰/Student/main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"Class.h"
+
+1426568479 source:/home/lucas/妗岄潰/Student/Student.cpp
+	<iostream>
+	<cstdio>
+	"Student.h"
+	"Course.h"
+
+1426570204 source:c:\users\lucas\desktop\大二下\oop\project1\student\course.cpp
+	<iostream>
+	"Course.h"
+
+1426569907 c:\users\lucas\desktop\大二下\oop\project1\student\course.h
+
+1426570151 source:c:\users\lucas\desktop\大二下\oop\project1\student\class.cpp
+	<iostream>
+	<cstdio>
+	"Class.h"
+
+1426569824 c:\users\lucas\desktop\大二下\oop\project1\student\class.h
+	"Student.h"
+
+1426570023 c:\users\lucas\desktop\大二下\oop\project1\student\student.h
+	"Course.h"
+
+1426568123 source:c:\users\lucas\desktop\大二下\oop\project1\student\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"Class.h"
+
+1426570373 source:c:\users\lucas\desktop\大二下\oop\project1\student\student.cpp
+	<iostream>
+	<cstdio>
+	"Student.h"
+
+1426570151 source:d:\大学\大二下\oop\project1\student\class.cpp
+	<iostream>
+	<cstdio>
+	"Class.h"
+
+1426569824 d:\大学\大二下\oop\project1\student\class.h
+	"Student.h"
+
+1426570023 d:\大学\大二下\oop\project1\student\student.h
+	"Course.h"
+
+1426569907 d:\大学\大二下\oop\project1\student\course.h
+
+1426570204 source:d:\大学\大二下\oop\project1\student\course.cpp
+	<iostream>
+	"Course.h"
+
+1426570373 source:d:\大学\大二下\oop\project1\student\student.cpp
+	<iostream>
+	<cstdio>
+	"Student.h"
+
+1427004652 source:d:\大学\大二下\oop\project1\student\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"Class.h"
+

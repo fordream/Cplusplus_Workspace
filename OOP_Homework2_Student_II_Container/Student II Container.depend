@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1427726391 source:d:\大学\大二下\oop\project2\student ii container\course.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Course.h"
+
+1427727753 d:\大学\大二下\oop\project2\student ii container\course.h
+	<string>
+
+1427768627 source:d:\大学\大二下\oop\project2\student ii container\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	"Class.h"
+
+1427793673 d:\大学\大二下\oop\project2\student ii container\class.h
+	"Student.h"
+
+1427778579 d:\大学\大二下\oop\project2\student ii container\student.h
+	<string>
+	<vector>
+	"Course.h"
+
+1427790629 source:d:\大学\大二下\oop\project2\student ii container\student.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Student.h"
+
+1427779416 source:d:\大学\大二下\oop\project2\student ii container\class.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	"Class.h"
+
